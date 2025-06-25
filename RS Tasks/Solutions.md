@@ -115,4 +115,4 @@ Use a potentiometer to control the color intensity of an RGB LED.
 
 ---
 
-> All circuits are created and tested on Tinkercad, and the corresponding code is written in Arduino IDE. Feel free to fork or reuse for your own learning!
+> All circuits are created and tested on Tinkercad, with code. Feel free to fork or reuse for your own learning!
